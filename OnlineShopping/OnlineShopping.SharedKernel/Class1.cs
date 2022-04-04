@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OnlineShoping.Domain
+namespace OnlineShopping.SharedKernel
 {
     public class Class1
     {
